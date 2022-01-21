@@ -1,1 +1,1 @@
-FROM php:7.2.33
+FROM php:7.2.33-apache
